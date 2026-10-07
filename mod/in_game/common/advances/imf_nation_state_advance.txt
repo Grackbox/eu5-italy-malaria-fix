@@ -1,0 +1,8 @@
+﻿# From LudiMPbalance (Steam Workshop 3664177503): "Nation State", which unlocks the Merge Culture Group cabinet
+# action, moves from the Age of Revolutions to the Age of Reformation and requires the Fine Cloth Workshop advance.
+TRY_REPLACE:nation_state_advance = {
+	age = age_4_reformation
+	requires = fine_cloth_workshop_advance
+	icon = cultures_capacity_mil_choice
+	unlock_cabinet_action = merge_culture_group
+}
