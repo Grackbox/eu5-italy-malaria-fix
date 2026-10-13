@@ -1,10 +1,10 @@
 # Italy Malaria Fix (EU5 mod)
 
-Two small balance fixes for Europa Universalis V 1.4. Local mod, not on the Workshop.
+A small balance fix for Europa Universalis V 1.4. Local mod, not on the Workshop.
 
-- **Malaria in the Po valley.** 1.4 counts the valley as subtropical (x1.75) on wetlands (x3) with no resistance, which
-  made it worse than tropical Africa. The eleven Po valley outbreak locations get a tenth of the infection; the rest of
-  the world is unchanged. Overrides `in_game/common/diseases/malaria.txt`.
+Malaria in the Po valley was fixed in the game itself (build 25905365 lowered its mortality), so the mod no longer
+overrides `malaria.txt`.
+
 - **Nation State earlier.** From LudiMPbalance (Workshop 3664177503): the Nation State advance (Merge Culture Group
   cabinet action) moves from the Age of Revolutions to the Age of Reformation, after Fine Cloth Workshop.
 

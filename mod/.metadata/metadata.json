@@ -1,10 +1,10 @@
 ﻿{
     "name": "Italy Malaria Fix [LOCAL]",
     "id": "grackbox.italy_malaria_fix",
-    "version": "1.1.0",
+    "version": "1.2.0",
     "game_id": "eu5",
     "supported_game_version": "1.4.*",
-    "short_description": "Malaria in the Po valley is ten times weaker; Nation State (merge culture group) moves to the Age of Reformation, as in LudiMPbalance.",
+    "short_description": "Nation State (merge culture group) moves to the Age of Reformation, as in LudiMPbalance.",
     "tags": [
         "Balance",
         "1.4"
